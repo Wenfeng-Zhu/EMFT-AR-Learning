@@ -1,0 +1,44 @@
+{
+    "article_index": 0,
+    "article_number": "2.3.3",
+    "date": "1/17",
+    "mainHeadLine": "Entfernung von Beschichtungen, Abschälmethode",
+    "paragraphs": [
+        {
+            "headLine": "ALLGEMEINE ANFORDERUNGEN",
+            "content": ".......",
+            "video": [
+                "video_name_1",
+                "video_name_2"
+            ],
+            "image": [
+                {
+                    "image_name": "name_1",
+                    "iamge_description": "Der Schutzüberzug ist vollständig entfernt"
+                },
+                {
+                    "image_name": "name_2",
+                    "iamge_description": "..."
+                }
+            ]
+        },
+        {
+            "headLine": "ÜBERBLICK",
+            "content": ".......",
+            "video": [
+                "video_name_3",
+                "video_name_4"
+            ],
+            "image": [
+                {
+                    "image_name": "name_3",
+                    "iamge_description": "..."
+                },
+                {
+                    "image_name": "name_4",
+                    "iamge_description": "..."
+                }
+            ]
+        }
+    ]
+}

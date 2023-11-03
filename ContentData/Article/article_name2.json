@@ -1,0 +1,31 @@
+{
+    "article_index": 0,
+    "article_number": "2.3.3",
+    "mainHeadLine": "Entfernung von Beschichtungen, Abschälmethode",
+    "paragraphs": [
+        {
+            "headLine": "ALLGEMEINE ANFORDERUNGEN",
+            "content": ".......",
+            "video": [
+                "video_name_1",
+                "video_name_2"
+            ],
+            "image": [
+                "image_name_1",
+                "image_name_2"
+            ]
+        },
+        {
+            "headLine": "ÜBERBLICK",
+            "content": ".......",
+            "video": [
+                "video_name_3",
+                "video_name_3"
+            ],
+            "image": [
+                "image_name_4",
+                "image_name_4"
+            ]
+        }
+    ]
+}
